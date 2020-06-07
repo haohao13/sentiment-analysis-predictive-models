@@ -1,4 +1,4 @@
-# Sentiment Analysis Predictive Classification Models
+# Predicting Customer Satisfaction Using Sentiment Analysis
 
 ## Dataset
 1. Data Type: Amazon product review data (Health and Personal Care)  
